@@ -1,0 +1,12 @@
+div {
+    border: 15px solid green;
+    padding: 30px 10px 30px 10px;
+    width: 250px;
+    height: 200px;
+    box-sizing: border-box;
+}
+h1 {
+    background-color: gainsboro;
+    color: green;
+    text-align: center;
+}
