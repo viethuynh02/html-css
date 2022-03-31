@@ -1,0 +1,76 @@
+header {
+    height: 100px;
+    background-color: aqua;
+}
+#logo {
+    height: 70%;
+    width: fit-content;
+    float: left;
+
+}
+#logo img {
+    height: 100%;
+}
+#banner {
+    width: 70%;
+    height: 70%;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+#banner h1 {
+    font-size: small;
+    text-align: center;
+}
+nav {
+    height: 30%;
+    background-color: rgb(83, 151, 129);
+    width: 100%;
+    clear: both;
+}
+nav a {
+    font-size: 10px;
+    color: beige;
+}
+#aside_1 {
+    width: 15%;
+    background-color: bisque;
+    float: left;
+    height: 400px;
+}
+article {
+    width: 60%;
+    height: 400px;
+    background-color: rgb(125, 235, 235);
+    float: left;
+}
+#aside_2 {
+    width: 25%;
+    background-color: bisque;
+    float: right;
+    height: 400px;
+}
+footer {
+    font-size: 10px;
+}
+article iframe {
+    height: 200px;
+    width: 50%;
+}
+#new1{
+    height: 100px;
+    width: 46%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: blue;
+    color: aliceblue;
+}
+#new2 {
+    height: 100px;
+    width: 46%;
+    background-color: blue;
+    float: left;
+    margin-right: 2%;
+    color: aliceblue;
+}

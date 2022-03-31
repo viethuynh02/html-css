@@ -1,0 +1,31 @@
+header {
+    height: 60px;
+    background-color: rgb(156, 98, 27);
+}
+aside {
+    width: 30%;
+    background-color: rgb(100, 123, 194);
+    float: left;
+    height: 900px;
+}
+article {
+    width: 70%;
+    float: left;
+    background-color: rgb(53, 32, 7);
+    height: 900px;
+}
+footer {
+    height: 30px;
+    clear: both;
+    background-color: rgb(165, 130, 78);
+}
+#logo {
+    height: 60px;
+}
+#logo image {
+    height: 100%;
+}
+nav {
+    background-color: black;
+    height: 30px;
+}
