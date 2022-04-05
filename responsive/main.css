@@ -1,0 +1,27 @@
+header {
+    background-color: antiquewhite;
+    height: 30px;
+}
+aside {
+    background-color: bisque;
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+article {
+    background-color: blue;
+    width: 70%;
+    height: 300px;
+    float: left;
+}
+footer {
+    clear: both;
+    background-color: aqua;
+    height: 40px;
+}
+@media screen and (max-width:300px) {
+    aside,article {
+        height: 300px;
+        width: 100%;
+    }
+}
