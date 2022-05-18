@@ -1,0 +1,25 @@
+:root {
+    ---bggradient: linear-gradient(to bottom, #dd2476, #ff512f);
+}
+
+header {
+    background-color: var(--bggradient);
+}
+header a {
+    color: white;
+}
+.navbar-brand {
+    padding-left: 8rem;
+}
+.nav-item:last-child {
+    padding-right: 10rem;
+}
+.nav-item {
+    padding: 0.9rem;
+}
+.nav-link:hover {
+    color: black;
+}
+.nav-link {
+    color: white;
+}
